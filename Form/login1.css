@@ -1,0 +1,40 @@
+h3{
+    text-align: center;
+    color: rgb(237, 240, 243);
+    background-color: rgb(59, 18, 209);
+   font-size: x-large;
+   font-family: 'Times New Roman', Times, serif; 
+   margin-top: 30px;
+}
+#login-page label 
+{
+   font-size: larger;
+    display: block;
+    margin-top: 10px;
+}
+#login-page input[type="email"],
+#login-page input[type="password"] 
+{
+    width: 50%;
+    padding: 8px;
+    margin-top: 2cap;
+    border: 0.5px solid #0e0707;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 0cqh;
+}
+p{
+ font-size: large;
+ text-align: center;
+}
+a{
+    font-weight: bold;
+}
